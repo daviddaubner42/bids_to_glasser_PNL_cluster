@@ -2,7 +2,7 @@
 
 # The BIDS directory with data to be processed
 datadir: 
-# The directory with the Snakemake pipeline specification
+# The directory with the Snakemake pipeline specification (this repository)
 rootdir: 
 
 # The singularity containers used by the pipeline
